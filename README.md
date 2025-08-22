@@ -11,7 +11,7 @@ Source code: https://tools.suckless.org/slstatus/
 3. Battery percentage
 
 ## Download
-```git clone https://git.suckless.org/slstatus```
+```git clone https://github.com/triet228/slstatus.git```
 ## Installtion
 Go to cloned directory
 ```cd slstatus``` 
